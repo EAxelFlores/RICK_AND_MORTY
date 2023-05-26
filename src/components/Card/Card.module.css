@@ -1,0 +1,36 @@
+.container{
+    border: 1px solid red;
+    background-color: #CCFF66 ;
+    border-radius: 15px;
+    width: 160px;
+    padding: 10px;
+    box-shadow: 0 0 10px ;
+}
+
+.img{
+    width: 150px ;
+    
+}
+
+.buttonX{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.buttonX button{
+    background-color: red;
+    color: white;
+    border: 3px;
+    border-radius: 2px;
+}
+
+.dataContainer{
+    text-align: center;
+    padding: 10x;
+}
+
+.dataContainer h2{
+    margin: 2px;
+    font-size: 16px;
+    color: darkslategray;
+}
